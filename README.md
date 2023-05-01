@@ -16,6 +16,7 @@ Import .pal files into RLCN (NCLR) files
 * The latest version of .NET Famework from Microsoft
 
 ## Notes
+<b>Supports only Windows/Microsoft (*.pal) palette format</b>
 
 This tool was made primarily for Pokémon DS ROM-Hacking
 
