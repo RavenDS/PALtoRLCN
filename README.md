@@ -1,3 +1,4 @@
+### Note: This is one of the first tool I ever wrote, so the code is VERY messy and includes various work-arounds for stuff I didn't know how to do at the time
 # PALtoRLCN
 Import .pal & .act files into RLCN (NCLR) files
 
